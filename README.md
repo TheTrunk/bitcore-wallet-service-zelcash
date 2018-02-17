@@ -3,6 +3,8 @@
 
 A Multisig HD Bitcore Wallet Service ported to Zelcash from original Bitcoin [bitcore-wallet-service](https://github.com/bitpay/bitcore-wallet-service).
 
+Live at: https://bws.zelcash.online
+
 # Description
 
 Bitcore Wallet Service facilitates multisig HD wallets creation and operation through a (hopefully) simple and intuitive REST API.
